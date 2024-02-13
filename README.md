@@ -3,7 +3,9 @@
 
 # My Lacture Note
 
-For OOP Class
+> [!NOTE]
+> For OOP Class
+
 
 Nattawat Mahachanawong
 
