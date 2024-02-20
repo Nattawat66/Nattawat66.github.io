@@ -35,7 +35,7 @@
 
    pip install streamlit
 
-6. gitignore
+6. .gitignore
    เพิ่ม venv/   
 
 7. สร้าง app01.py
