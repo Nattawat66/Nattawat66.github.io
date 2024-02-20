@@ -47,7 +47,21 @@
 
 
 8. git config --global user.name "Nattawat66"
-    git config --global user.email nattawat.ma.66@ubu.ac.th
+   git config --global user.email nattawat.ma.66@ubu.ac.th
+
+
+9. สร้างโฟลเดอร์ streamlit,pygame,pyside6 และสร้างไฟล์   
+
+10. diffusers
+   pip install --upgrade diffuser[torch]
+   pip install --upgrade transformers
+   pip install pillow
+
+11.import
+   import torch
+   import streamlit as st
+   from PIL import Image
+   from diffusers import DiffusionPipeline as DP   
 ```
 
 
